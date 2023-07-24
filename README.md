@@ -7,7 +7,7 @@ This repository contains a C++ program for image processing operations on PGM (P
 - [Description](#description)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [Intial Contributor](#Initial-Contributor)
+- [Intial Contributor](#initial-contributor)
 
 ## Features
 

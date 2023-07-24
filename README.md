@@ -7,7 +7,7 @@ This repository contains a C++ program for image processing operations on PGM (P
 - [Description](#description)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [Intial Contributor](#Intial-Contributor)
+- [Intial Contributor](#Initial-Contributor)
 
 ## Features
 
@@ -78,7 +78,7 @@ With these steps, you'll be able to effortlessly harness the power of image proc
 
 Contributions to this project are welcome! If you have any suggestions, bug fixes, or new features to add, please open an issue or submit a pull request.
 
-## Intial Contributor
+## Initial Contributor
 
 So far, all the work in this repository is purely done by me and [Avcton](https://github.com/avcton)
 

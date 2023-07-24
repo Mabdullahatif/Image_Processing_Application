@@ -3,13 +3,22 @@
 This repository contains a C++ program for image processing operations on PGM (Portable Graymap) image files. The program allows users to load and save images, create negative images, apply mean and median filters, flip images horizontally and vertically, rotate images, resize images, and crop images.
 
 ## Table of Contents
-- [Description](#description)
 - [Features](#features)
+- [Description](#description)
 - [How to Use](#how-to-use)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Features
+
+- Load and save PGM image files.
+- Create the negative of an image.
+- Apply mean and median filters to an image.
+- Flip images horizontally and vertically.
+- Rotate images clockwise and counter-clockwise.
+- Rotate images by an arbitrary angle.
+- Resize images to custom dimensions.
+- Crop images by specifying left, top, right, and bottom lengths.
 
 ## Description
 
@@ -51,17 +60,6 @@ The provided C++ code is an image processing application that operates on PGM (P
    - Users can interact with the program by providing inputs such as file names, filter sizes, angles, etc., as required for specific operations.
 
 The code provides a comprehensive set of image processing operations, enabling users to load, manipulate, and save images with ease. It covers various transformation and filtering techniques commonly used in basic image processing applications. Users can perform multiple operations sequentially on the same image, as well as save the final processed image to a new file.
-
-## Features
-
-- Load and save PGM image files.
-- Create the negative of an image.
-- Apply mean and median filters to an image.
-- Flip images horizontally and vertically.
-- Rotate images clockwise and counter-clockwise.
-- Rotate images by an arbitrary angle.
-- Resize images to custom dimensions.
-- Crop images by specifying left, top, right, and bottom lengths.
 
 ## How to Use
 
